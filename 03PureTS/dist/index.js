@@ -8,4 +8,4 @@ class User {
     }
 }
 const kev = new User("kk@gmail.com", "kevin", "a234");
-//console.log(kev.city)
+console.log(kev.city);
